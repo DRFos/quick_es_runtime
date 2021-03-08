@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["uuid"] = [{"text":"impl LowerHex for Hyphenated","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; LowerHex for HyphenatedRef&lt;'a&gt;","synthetic":false,"types":[]},{"text":"impl LowerHex for Simple","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; LowerHex for SimpleRef&lt;'a&gt;","synthetic":false,"types":[]},{"text":"impl LowerHex for Urn","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; LowerHex for UrnRef&lt;'a&gt;","synthetic":false,"types":[]},{"text":"impl LowerHex for Uuid","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

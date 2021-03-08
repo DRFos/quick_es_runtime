@@ -1,0 +1,9 @@
+(function() {var implementors = {};
+implementors["crossbeam_epoch"] = [{"text":"impl&lt;T:&nbsp;?Sized + Pointable&gt; Ord for Shared&lt;'_, T&gt;","synthetic":false,"types":[]}];
+implementors["either"] = [{"text":"impl&lt;L:&nbsp;Ord, R:&nbsp;Ord&gt; Ord for Either&lt;L, R&gt;","synthetic":false,"types":[]}];
+implementors["futures_util"] = [{"text":"impl&lt;T:&nbsp;Ord&gt; Ord for AllowStdIo&lt;T&gt;","synthetic":false,"types":[]}];
+implementors["log"] = [{"text":"impl Ord for Level","synthetic":false,"types":[]},{"text":"impl Ord for LevelFilter","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Ord for Metadata&lt;'a&gt;","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Ord for MetadataBuilder&lt;'a&gt;","synthetic":false,"types":[]}];
+implementors["proc_macro2"] = [{"text":"impl Ord for Ident","synthetic":false,"types":[]}];
+implementors["syn"] = [{"text":"impl Ord for Lifetime","synthetic":false,"types":[]}];
+implementors["uuid"] = [{"text":"impl Ord for Hyphenated","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Ord for HyphenatedRef&lt;'a&gt;","synthetic":false,"types":[]},{"text":"impl Ord for Simple","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Ord for SimpleRef&lt;'a&gt;","synthetic":false,"types":[]},{"text":"impl Ord for Urn","synthetic":false,"types":[]},{"text":"impl&lt;'a&gt; Ord for UrnRef&lt;'a&gt;","synthetic":false,"types":[]},{"text":"impl Ord for Uuid","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

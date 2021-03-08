@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["get_exception","Get the last exception from the runtime, and if present, convert it to an EsError."],["is_error","See if a JSValueRef is an Error objecte"],["new_error","Create a new Error object"],["throw","Throw an error and get an Exception JSValue to return from native methods"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EsError","The EsError struct is used throughout this crate to represent errors"]]});
